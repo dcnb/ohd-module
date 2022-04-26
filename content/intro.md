@@ -1,19 +1,16 @@
 ---
 nav_order: 1
-title: Introduction
+title: How This Works
 ---
 
-Oral History as Data (OHD) is a static web framework that will let you publish a collection of oral history/qualitative interviews online. Setting up a project requires you to transform your interview text into a spreadsheet and to create some files describing each interview. 
+Oral History as Data (OHD) is a static web framework that will let you publish a collection of oral history/qualitative interviews online. This project asks you to copy a working repository of interviews and replace them with your own. To do that, you'll follow these steps: 
+
+1. Transform your interview text into a spreadsheet 
+2. Code sections of your transcripts by subject
+3. Copy the OHD repository and replace its contents with your own
+2. Customize and Publish your site on GitHub Pages 
 
 At the end of the process you will have a fully baked website that publishes each of your transcripts and allows for users to search interviews by keyword or browse by topics that you assign. It also features some spiffy visualizations to entice engagement. 
-
-## Oral History as Data
-
-Oral History as Data was first built in 2018, coming out of work at the University of Idaho Library's [Center for Digital Inquiry and Learning (CD?L)](https://cdil.lib.uidaho.edu/). 
-
-The framework served as the foundation for several digital humanities projects, including [Voices of Gay Rodeo](https://www.voicesofgayrodeo.com/), [Idaho Queered](https://www.lib.uidaho.edu/queered/), and [CTRL+Shift](https://ctrl-shift.org/). 
-
-The project is closely related to the [CollectionBuilder](https://collectionbuilder.github.io/) project, and the current iteration was built on top of a CollectionBuilder-GH template. 
 
 ## GitHub Pages 
 
@@ -33,6 +30,13 @@ If your site exceeds these quotas, GitHub will send you a notice asking you to m
 This may effect you if your also trying to publish a collection of Mp3s or Mp4s within this repository, so just be aware!
 
 **Also All content must follow the [community guidelines](https://help.github.com/articles/github-community-guidelines/), e.g. no violence, obscene sex, or illegal stuff.**
+
+## About Oral History as Data
+
+Oral History as Data was first built in 2018, coming out of work at the University of Idaho Library's [Center for Digital Inquiry and Learning (CD?L)](https://cdil.lib.uidaho.edu/). 
+The framework served as the foundation for several digital humanities projects, including [Voices of Gay Rodeo](https://www.voicesofgayrodeo.com/), [Idaho Queered](https://www.lib.uidaho.edu/queered/), and [CTRL+Shift](https://ctrl-shift.org/). 
+
+The project is closely related to the [CollectionBuilder](https://collectionbuilder.github.io/) project, and the current iteration was built on top of a CollectionBuilder-GH template. 
 
 
 

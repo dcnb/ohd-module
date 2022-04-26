@@ -6,7 +6,7 @@ topics: Site options; _config.yml
 ---
 
 
-## Polish Your Transcript
+## Step 6: Polish Your Transcript
 
 Now you'll need to read through your interview with three goals:
 
