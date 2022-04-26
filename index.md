@@ -3,15 +3,12 @@ title: Lesson Template
 layout: page
 ---
 
-A minimal Jekyll theme with sidebar content nav for creating lesson and workshop websites using Markdown.
+Learn how to prepare and publish coded (or non-coded) oral history and/or qualitative interview transcripts. Using the Oral History as Data tool as a foundation, this module will walk you through the preparation, coding, and configuration needed to build a digital collection of interviews. 
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="ohd_homepage.png" alt="Homepage Screenshot for Oral History as Data" caption="Homepage for Oral History as Data" width="75%" %}
 
-*Add your workshop abstract here!*
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+
 
 {% include toc.html %}
 
