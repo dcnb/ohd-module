@@ -1,16 +1,13 @@
 ---
 section: Prepare Your Transcript
-nav_order: 2
+nav_order: 3
 title: Transform Your Transcript Into a Google Sheet
-topics: GitHub; Optional Software
 ---
-
-
 
 {:.pt-4 .my-4}
 ## Step 3: Paste Your Transcript Into Google Sheets
 
-- Go to your blank transcript tempalte (now renamed!). 
+- Go to your blank transcript template (now renamed!). 
 
 - Click on the cell underneath `speaker` 
 
@@ -18,7 +15,7 @@ topics: GitHub; Optional Software
 
 - This should paste all the transcript text into the rows of the second column
 
-- Alternatively, if you're using a Google Doc of your transctipt: 
+- Alternatively, if you're using a Google Doc of your transcript: 
     - Open your transcript as a Google Doc
     - Copy all of the text of the transcript
     - Switch back to the Google Sheet you created

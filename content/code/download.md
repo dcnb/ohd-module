@@ -2,7 +2,6 @@
 section: Code and Download
 nav_order: 3
 title: Download and Rename Your Spreadsheets
-topics: Content; Bootstrap Components
 ---
 
 

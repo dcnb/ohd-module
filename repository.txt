@@ -2,7 +2,6 @@
 section: Prepare Your Transcript
 nav_order: 3
 title: Create Project
-topics: Template; Basic Config
 ---
 
 The [lesson-template repository](https://github.com/learn-static/lesson-template) is a template project --> to get started quickly, make a copy and replace the demo with your own content and customizations.

@@ -1,8 +1,7 @@
 ---
-section: Build Your Site
-nav_order: 2
+section: Publish and Connect
+nav_order: 1
 title: Upload Your Spreadsheets
-topics: CSS
 ---
 
 ## Upload Your Transcript
@@ -30,13 +29,3 @@ topics: CSS
 {:.alert .alert-warning .mb-4}
 NOTE: If the CSV has a problem, GitHub will show you an error message that will say: "We can make this file beautiful and searchable if this error is corrected:" After that phrase, they will also point out a line number that is causing the problem. Open the file up by clicking on the pencil icon in the top right of the file area. Go to the line indicated and see if there's an obvious error. If you can't get it fixed, go back to your Google Sheet and see if there's anything to clean up. Even if there is nothing wrong, re-download the file as a CSV, rename it to the new title, then drag it back to the page as you did above. Hopefully one of these steps clears up the problem. 
 
-{% include youtube/embed.html  video-id="kfDeEfjl6nQ" title="Creating a .MD File" display="d-none d-md-block" %}
-
-## Step 3: Upload Your Filters.CSV file
-
-Much like the step before, you will: 
-
-- Go to the `_data` folder. 
-- Upload your `filters.csv` file into the folder by dragging it onto the webpage
-    - This will replace the file that is currently there. 
-- Commit your changes. 

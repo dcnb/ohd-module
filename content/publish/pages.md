@@ -1,8 +1,7 @@
 ---
-section_id: Customize Your Site
-nav_order: 5
+section: Publish and Connect
+nav_order: 2
 title: Create Interview Pages
-topics: Front Matter; Navigation
 ---
 
 ## Creating a Markdown File
@@ -20,6 +19,9 @@ topics: Front Matter; Navigation
 {% include bootstrap/figure.md img="howto/raw.png" caption="" alt="raw file button" class="w-50" %}
 - Copy the text inside of the file you opened
 {% include bootstrap/figure.md img="howto/newcopyandpaste.png" caption="" alt="raw file text" class="w-50" %}
+
+{% include youtube/embed.html  video-id="kfDeEfjl6nQ" title="Creating a .MD File" display="d-none d-md-block" %}
+
 
 ##### Create a new Markdown file for your transcript by pasting and then editing your copied text:  
 

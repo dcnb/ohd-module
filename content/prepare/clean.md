@@ -1,16 +1,18 @@
 ---
 section: Prepare Your Transcript
-nav_order: 1
+nav_order: 2
 title: Clean Your Transcript
-topics: GitHub; Optional Software
 ---
 
 ## Step 2: Clean Your Transcript 
 
+Smart quotes, single character ellipses, and other artifacts won't render correctly on the web so it's best to clean your text before you transform it for the tool. 
 
-Smart quotes, single character ellipses, and other artifacts won't render correctly on the web so it's best to clean your text before you transform it for the tool. This should also make it so that your transcript transfers nicely into the cells of your spreadsheet.
+Microsoft Word and Excel both add additional encoded characters (some of which are invisible!!) that will lead an application like ours to crash or that will cause web pages to render text incorrectly. 
 
-To clean your transcript use the forms below : 
+We clean the text before we use it in order to stave off later problems. By using the forms below, your text should should also be put in a format that is easier to nicely paste into a spreadsheet. 
+
+So please clean your transcript by pasting your transcript in the upper form and pushing the clean button below the lower form: 
 
 {% include wordcleaner.html%}
 

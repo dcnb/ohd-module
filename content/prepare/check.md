@@ -1,8 +1,7 @@
 ---
 section: Prepare Your Transcript
-nav_order: 4
+nav_order: 5
 title: Check Your Transcript for Errors
-topics: Site options; _config.yml
 ---
 
 ## Step 5: Check for Errors

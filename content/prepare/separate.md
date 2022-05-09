@@ -1,12 +1,38 @@
 ---
 section: Prepare Your Transcript
-nav_order: 3
+nav_order: 4
 title: Separate Your Cells
-topics: GitHub; Optional Software
 ---
 
 
 ## Separate Your Cells
+
+{:.pt-4}
+### Add a Separator
+{:.pb-3}
+
+- Open Find and Replace: 
+
+    - Press `ctrl` + `f` (on PC) or `cmd` + `f` (on Mac)
+
+    - A search box should appear in the top right of your screen. Click on the `More options` button to the right of the search box (three vertical dots). A box labeled `Find and replace` will appear in the middle of your screen.
+    
+{% include figure.html img="/prep/transcript19.png" caption="More options" alt="a screenshot of pasting text in google sheets" width="75%" %}
+
+{:.pt-2}
+- In the `Find` box, enter the initials of the first speaker (ex. `RS`)
+
+- In the `Replace` box, enter the initials of the first speaker, plus an asterisk (`*`) (ex. `RS*`)
+
+{% include figure.html img="/prep/transcript20.png" caption="Find and Replace" alt="a screenshot of pasting text in google sheets" width="75%" %}
+
+- Click the `Replace all` button. Then click `Done`
+
+- Repeat the steps above for the initials of the second speaker and the speakers' full names
+
+- Your spreadsheet should now look like this:
+
+{% include figure.html img="/prep/transcript18.png" caption="Add a Separator" alt="a screenshot of pasting text in google sheets" width="100%" %}
 
 {:.pt-4}
 ### Add a Separator

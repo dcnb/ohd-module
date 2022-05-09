@@ -1,9 +1,11 @@
 ---
-section_id: Build Your Site
-nav_order: 4
-title: Set Up Your Repository
-topics: Example Topic; Another Example
+section: For Instructors
+nav_order: 1
+title: Setting up the repository
 ---
+
+
+The first step in this process it to copy a GitHub repository so you can use it on your own account. You can serve the website from your personal account, or you can create an organization to serve the website from a specific website. If you'd like to work on this , see GitHub's instructions on [Creating and Organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)
 
 ## Create a GitHub Account
 

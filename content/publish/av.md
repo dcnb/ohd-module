@@ -1,8 +1,7 @@
 ---
-section: Customize Your Site
+section: Publish and Connect
 nav_order: 3
 title: Connect Audio or Video
-topics: Learning Objectives; Assignments
 ---
 
 ### Optional: Connect the transcript to an audio or video file using `av_source`
@@ -34,6 +33,4 @@ NOTE: if you want to utilize an mp3 file, you can create also create a webpage t
 {% include bootstrap/figure.md img="howto/final_source.png" caption="" alt="Included URL for mp3 feature" %}
 
 - Change *av_source* to "mp3". 
-
-{% include bootstrap/figure.md img="howto/url_mp3_final.png" caption="s" alt="av_source edited to include mp3 file" %}
 

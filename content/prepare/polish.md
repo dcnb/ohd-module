@@ -1,8 +1,7 @@
 ---
 section: Prepare Your Transcript
-nav_order: 5
+nav_order: 6
 title: Polish Your Transcript
-topics: Site options; _config.yml
 ---
 
 
@@ -25,7 +24,7 @@ Now you'll need to read through your interview with three goals:
 
 - Select the row so it's highlighted in blue
 
-- Click on that row with two fingers, and select `Insert 1 below`
+- Right click on that row and select `Insert 1 below`
 
 {% include figure.html img="/prep/transcript11.png" caption="Insert 1 below" alt="a screenshot of pasting text in google sheets" width="100%" %}
 

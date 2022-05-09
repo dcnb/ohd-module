@@ -1,15 +1,14 @@
 ---
-section_id: Code and Download
-nav_order: 3
+section: Code and Download
+nav_order: 1
 title: Code Your Transcript
-topics: Front Matter; Navigation
 ---
 
 ## Add Tags/Codes to Your Transcript Spreadsheet (Optional)
 
-*Note: in order to enable the visualization, you must have coded your spreadsheet*
-
 If you'd like to enable subject-based browsing and color-coded visualizations for your transcript, you need to "code" portions of the conversation according to the subject matter. 
+
+Your Instructor(s) should have developed a basic list of codes for your class project already, either with you and your class or on their own. Use those tags already developed to code chunks of your interview transcript. ,
 
 - To do this, start adding "tags"-- which should be shorthand descriptions of larger thematic subjects that pertain to this and other transcripts in a collect-- in the cells under the "tags" column that pertain to the content in the adjacent "words" cell. 
 {% include bootstrap/figure.md img="howto/subjects_cell.png" caption="example subjects" alt="picture of the subjects cells" %}
