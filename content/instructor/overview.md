@@ -6,7 +6,7 @@ title: Project Overview
 
 Thank you for choosing to lead your class through this project. You need not be a web developer or  particularly technically inclined to run this class! Instructions for setting up the project and working on it with your class are here to help you and your students walk through the process of creating a digital exhibit of oral histories or interview transcripts. 
 
-**Learning Goals for Students**: 
+**Learning Goals for Students:**
 
 - Learn how to to transform humanities textual content into data
 - Learn how to develop and apply a controlled vocabulary of subject terms to a transcript
@@ -14,7 +14,13 @@ Thank you for choosing to lead your class through this project. You need not be 
 - Learn the basics of working on GitHub, including the ability to navigate directories and subdirectories
 - Learn the importance of metadata, correct file naming practices, and attention to detail for publishing websites and building applications from data
 
-**Estimated Time to Complete this Section**: ~1 Hour+ (depending on how much work you do with your class to create the controlled vocabulary)
+**Estimated Time to Complete this Section:** ~1 Hour+ (depending on how much work you do with your class to create the controlled vocabulary)
+
+**Standards Alignment:**
+
+This module aligns with the [International Society for Technology in Education (ISTE) standards for students](https://www.iste.org/standards/iste-standards-for-students), particularly standard 1.3: Knowledge Constructor. --> "Students critically curate a variety of resources using digital tools to construct knowledge, produce creative artifacts and make meaningful learning experiences for themselves and others."
+
+
 
 ### Section Overview
 
