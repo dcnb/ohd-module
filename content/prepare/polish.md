@@ -9,8 +9,8 @@ title: Polish Your Transcript
 
 Now you'll need to read through your interview with three goals:
 
-1. Correcting typos
-2. [Separating big blurbs of text into smaller chunks](#text)
+1. [Separating big blurbs of text into smaller chunks](#text)
+2. [Correcting typos](#typos)
 3. [Locating timestamps](#time)
 
 {:.pt-3 #text}
@@ -36,10 +36,24 @@ Now you'll need to read through your interview with three goals:
 
 {% include figure.html img="/prep/transcript12.png" caption="Text Split Between Two Rows" alt="a screenshot of pasting text in google sheets" width="100%" %}
 
+
+{:.pt-3 #typos}
+### Correcting Typos
+
+Google Sheets includes a spell checker to help you find misspellings. 
+
+- Use the spell check feature by going to the `Tools` menu and selecting `Spelling > Spell check` 
+- After you've corrected any misspellings, give the transcript a quick read to make sure there are no obvious typos or mistakes. 
+- You will be analyzing the transcript for subject matter in the next section, so you will have time to further check your transcript then. 
+
+
+
 {:.pt-3 #text}
 ### Locating and Moving Timestamps
 
-- Timestamps are located periodically throughout the interview at the end of the text in the `words` cells:
+{% include bootstrap/alert.md text="Timestamps are optional, so if you don't have them just skip this step." %} 
+
+- Timestamps may be located periodically throughout the interview at the end of the text in the `words` cells, or perhaps on their own line:
 
 {% include figure.html img="/prep/transcript13.png" caption="Timestamps" alt="a screenshot of pasting text in google sheets" width="100%" %}
 
@@ -54,7 +68,7 @@ Now you'll need to read through your interview with three goals:
     {:.pt-3}
     - Copy and paste the timestamp you found into that row's `timestamp` cell
 
-    - Replace the parentheses (`()`) with brackets (`[]`)
+    - Surround the timestamp with brackets. If it's currently surrounded by parentheses, replace the parentheses (`()`) with brackets (`[]`)
 
     - Put it into the format `[HH:MM:SS]` where `H` = hour, `M` = minute, and `S` = second
 

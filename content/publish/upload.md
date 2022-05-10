@@ -1,20 +1,22 @@
 ---
 section: Publish and Connect
-nav_order: 1
+nav_order: 2
 title: Upload Your Spreadsheets
 ---
 
-## Upload Your Transcript
+To complete this step, you'll need to know where your shared repository is! Your instructor should have provided you the link and invited you to contribute to the repository. If you don't know where that is, contact your instructor! Or go back and check your GitHub profile to see what repositories you have access to. 
+
+{% include bootstrap/alert.md text="Saving a file into a GitHub repository is a two part process. You will upload your file into the correct directory by following the directions below, but after you do that, **make sure you COMMIT your change to the repository by pressing the Commit button at the bottom of the page.**" %}
 
 ##### Go to the `_data/transcripts/` directory: 
 
 - Click on the `_data` folder, which will take you to a new page. 
-- Then click into the `transcripts` folder. 
+- Then click into the `transcripts` folder on that new page. 
 
 ##### Drag your transcript(s) onto the webpage to upload them:
 
-- Find the transcript spreadsheet/CSV file or files you created and downloaded in the [Prepare Your Data Section]({{ 'howto/prepareyourdata.html' | relative_url }}). 
-    - Make sure the transcript CSV is titled something simple, and that it's all lowercase and has no spaces or special characters. E.G. `doe_john.csv` (And make sure it has a `.csv` extension!)
+- Find the CSV file or files you created and downloaded in the previous sections.
+    - Make sure the transcript CSV follows the filenaming conventions we went over!
 - Drag the file or files onto the web page -- the page will change when you drag it onto the webpage to say "Drop to Upload Your Files". Drop the file to upload it!
     - Alternatively, you can push the "Add File" dropdown button at the top right of your screen, and then select the file(s) you'd like to upload.
 

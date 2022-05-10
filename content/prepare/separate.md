@@ -20,9 +20,11 @@ title: Separate Your Cells
 {% include figure.html img="/prep/transcript19.png" caption="More options" alt="a screenshot of pasting text in google sheets" width="75%" %}
 
 {:.pt-2}
-- In the `Find` box, enter the initials of the first speaker (ex. `RS`)
+- In the `Find` box, enter the initials or name of the first speaker (ex. `RS` or `Rebecca Scofield`)
+    - If you include a colon (`:`) after the name or initials, include that in the find box as well 
 
-- In the `Replace` box, enter the initials of the first speaker, plus an asterisk (`*`) (ex. `RS*`)
+- In the `Replace` box, enter what you put in the Find box above, plus an asterisk (`*`) (ex. `RS*`). I
+    - If there was a colon included, remove the colon and replace it with an asterisk (`*`).
 
 {% include figure.html img="/prep/transcript20.png" caption="Find and Replace" alt="a screenshot of pasting text in google sheets" width="75%" %}
 
@@ -35,7 +37,7 @@ title: Separate Your Cells
 {% include figure.html img="/prep/transcript18.png" caption="Add a Separator" alt="a screenshot of pasting text in google sheets" width="100%" %}
 
 {:.pt-4}
-### Add a Separator
+### Separate Your Cells (Split Text to Columns)
 {:.pb-3}
 
 

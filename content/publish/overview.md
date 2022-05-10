@@ -4,6 +4,8 @@ nav_order: 5
 title: Section Overview
 ---
 
+At this point, you should have downloaded your CSV file and properly named it. Now we just need to publish it and connect it with the rest of the site!
+
 This section will walk you through the steps needed to publish your interview transcript on a webpage using the Oral History as Data framework. 
 
 **Goals**: 

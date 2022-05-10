@@ -8,7 +8,7 @@ This section will walk you through the steps needed to prepare a transcript, as 
 
 **Goals**: 
 
-- Learn why and how to use plain text. 
+- Learn why and how to use plain text for web projects 
 - Learn how to split text into cells, i.e. how to create data!
 - Learn how to prepare your spreadsheet data to be published on the web
 

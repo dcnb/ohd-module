@@ -3,7 +3,9 @@ section_id: Code and Download
 nav_order: 4
 title: Section Overview
 ---
-This section will walk you through the steps needed to code your transcript with tags that will created the visualization and browsing possibilities enabled by the Oral History as Data framework. 
+Now that you have your transcript in spreadsheet form (oral history as data!), you can code the various sections of the interview by the topics that you cover. 
+
+This section will walk you through the steps needed to code your transcript with the tags that will create the visualization and browsing possibilities enabled by the Oral History as Data tool. 
 
 **Goals**: 
 
