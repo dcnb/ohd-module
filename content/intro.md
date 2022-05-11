@@ -3,7 +3,7 @@ nav_order: 1
 title: How This Works
 ---
 
-Oral History as Data (OHD) is a static web framework that will let you publish a collection of oral history/qualitative interviews online. This [Learn-Static Lesson Template](https://github.com/learn-static) will help you as a class to build your own collection of interviews using OHD. 
+[Oral History as Data (OHD)](https://github.com/oralhistoryasdata) is a static web framework that will let you publish a collection of oral history/qualitative interviews online. This [Learn-Static Lesson Template](https://github.com/learn-static) will help you as a class to build your own collection of interviews using OHD. 
 
 To do that, **Instructors will follow these steps:** 
 
@@ -23,8 +23,9 @@ And **students will follow these steps:**
 
 To get started as a student, go to the [Prepare Your Transcript Section Overview Page](prepare/overview.html). 
 
-
 At the end of the process you will have a fully baked website that publishes each of your transcripts and allows for users to search interviews by keyword or browse by the topics you define in your controlled vocabulary. The site will feature some spiffy visualizations to entice engagement. 
+
+{% include button.html link="https://oralhistoryasdata.github.io/" text="Check Out the OHD Demo Site" color="primary btn-lg mt-2 mb-4 ms-5"%}
 
 ### About Oral History as Data
 

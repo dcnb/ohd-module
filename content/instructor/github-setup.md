@@ -22,7 +22,7 @@ If you already have a GitHub account, skip this step.
 
 ## Use This Template! (Make a copy of this template!)
 
-- Go to the [Oral History as Data GitHub Repository]({{site.repository}}){:target="_blank"} and click on the green "Use this template" button toward the top right of the page. 
+- Go to the [Oral History as Data GitHub Repository](https://github.com/oralhistoryasdata/oralhistoryasdata.github.io){:target="_blank"} and click on the green "Use this template" button toward the top right of the page. 
 
 {% include bootstrap/figure.md img="howto/ohd_template.png" caption="" alt="picture of the button that enables user to create a new template in github" class="w-50" %}
 
