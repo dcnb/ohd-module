@@ -43,6 +43,9 @@ Jekyll uses the markdown file as the basis for creating web pages. The informati
     - ***Be sure that the object-id option is the same as the filename (without the extension) of your transcript.***
 {% include bootstrap/figure.md img="howto/aftermd2.png" caption="File after being edited for new file" alt="new .md file text after being edited for new file" class="w-50" %}
 
+{:.alert .alert-danger .mb-5}
+If you are not going to be connecting the transcript to an audio or video source, be sure and ***DELETE the av_source and audiovideo-id lines from the markdown file.*** You can also just remove the values and leave them blank. If you put a different value, like "n/a", the site will likely break. So just get rid of them if you aren't using that feature! 
+
 {% capture lastcheck %}
 LAST CHECK: if the "object-id" field or the markdown filename is different than the name of your transcript CSV file in the _data/transcripts folder, the tool will break. Make sure all these files and the frontmatter value match! Look at the example below 
 
