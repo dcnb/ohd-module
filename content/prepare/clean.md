@@ -21,5 +21,5 @@ So please clean your transcript by pasting your transcript in the upper form and
     - Click into the form. 
     - Push CTRL+A on your keyboard to select all of the text in the from. (You will see the contents become highlighted)
     - Push CTRL+C to copy the text to your clipboard. 
-- You will paste your clean transcript into the blan`k transcript starter in the next step. 
+- You will paste your clean transcript into the blank transcript starter in the next step. 
 
